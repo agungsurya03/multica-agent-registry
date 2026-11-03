@@ -1,0 +1,15 @@
+
+schema_version: "1.0"
+last_synchronized: null
+
+agents: []
+
+relationships: []
+
+# Each relationship follows:
+# - source_agent_id: "..."
+#   target_agent_id: "..."
+#   type: "depends_on"
+#   description: "..."
+#   evidence: "..."
+#   confidence: "confirmed"
